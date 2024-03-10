@@ -5,7 +5,7 @@ const Info = () => {
 
   return (
     <div>
-        <h1>Mais informaçoes sobre o produto: {id}</h1>
+        <h1>Mais informaçoes sobree oo produto: {id}</h1>
     </div>
   )
 }

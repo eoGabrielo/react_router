@@ -7,7 +7,7 @@ Este projeto é uma aplicação simples em React que demonstra o uso do React Ro
 A aplicação permite aos usuários explorar diferentes páginas, pesquisar itens e visualizar informações detalhadas sobre produtos específicos. Além disso, faz uso de um servidor JSON para fornecer dados simulados. As características principais incluem:
 
 - **Home:** Página inicial.
-- **Sobre:** Informações sobre o projeto ou a equipe.
+- **Sobre:** Informações sobre o projeto.
 - **Produtos:** Lista todos os produtos disponíveis.
 - **Detalhes do Produto:** Exibe detalhes de um produto específico.
 - **Informações do Produto:** Informações adicionais sobre um produto.
@@ -19,18 +19,7 @@ A aplicação permite aos usuários explorar diferentes páginas, pesquisar iten
 Para executar este projeto localmente, siga estas etapas:
 
 1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
-   cd seurepositorio
-   ```
-
 2. Instale as dependências:
-
-   ```bash
-   npm install
-   ```
-
 3. Inicie o servidor JSON (certifique-se de ter o pacote `json-server` instalado globalmente):
 
    ```bash
@@ -63,8 +52,4 @@ O projeto utiliza as seguintes dependências principais:
 
 ## Reconhecimentos
 
-Este projeto foi desenvolvido para fins educacionais, explorando e praticando React Router, useParams, rotas aninhadas e integração com um servidor JSON. Sinta-se à vontade para modificar e usar conforme sua jornada de aprendizado.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+Este projeto foi desenvolvido para estudos, explorando e praticando React Router, useParams, rotas aninhadas e integração com um servidor JSON. Sinta-se à vontade para analisar o codigo

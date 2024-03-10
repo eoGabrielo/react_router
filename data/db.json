@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fiat Toro",
+      "price": 75000.0
+    },
+    {
+      "id": 2,
+      "name": "VW Saveiro",
+      "price": 60000.0
+    },
+    {
+      "id": 3,
+      "name": "Chevrolet Onix",
+      "price": 55000.0
+    },
+    {
+      "id": 4,
+      "name": "Ford Ranger",
+      "price": 80000.0
+    },
+    {
+      "id": 5,
+      "name": "Toyota Corolla",
+      "price": 90000.0
+    }
+  ]
+}

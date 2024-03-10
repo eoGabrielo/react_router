@@ -1,6 +1,6 @@
 # React Router e Servidor JSON
 
-Este projeto é uma aplicação simples em React que demonstra o uso do React Router para navegação, useParams para parâmetros de rota dinâmicos e rotas aninhadas. O código foi desenvolvido como parte de um estudo para compreender e praticar esses conceitos.
+Este projeto é uma aplicação simples em React que demonstra o uso do React Router para navegação. O código foi desenvolvido como parte de um estudo para compreender e praticar esses conceitos.
 
 ## Visão Geral
 
